@@ -17,7 +17,7 @@ I am currently working on a webapp for Gungi (a fictional strategy board game fr
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)<br>
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)<br>
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)<br>
-![Astro](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=astro)<br>
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)<br>
 ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)<br>
 
 <!--
