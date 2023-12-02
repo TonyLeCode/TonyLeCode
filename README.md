@@ -6,7 +6,8 @@ My preferred stack at the moment is SvelteKit with Go, but I also like React/Nex
 
 My hobbies include writing, painting, gaming, and anime.
 
-I am currently working on a webapp for Gungi (a fictional strategy board game from Hunter x Hunter).
+I am currently working on a webapp for Gungi (a fictional strategy board game from Hunter x Hunter).<br>
+I am also currently working on a VGC Pokmon share site.
 
 ## 💻 Tech Stack
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css)<br>
